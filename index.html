@@ -2,10 +2,65 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <script src="https://kit.fontawesome.com/0deb597c3f.js" crossorigin="anonymous"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="icon" type="image/png" href="images/favicon.png" />
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>Go</title>
 </head>
 <body>
-    Hello world
+    <div class="homepage">
+        <img id="backgroundimage" src="images/bgp.jpg" >
+        <div id='header'>
+            <h1>Relax Time</h1>
+        </div>
+
+        <div class="body">
+            <div class='left-buttons-box'>
+                <div id='newgame'>New Game</div>
+                <div id='two-players'>Two Player</div>
+                <div id='one-player'>One Player</div>
+                <div id='music' onclick="playbgm()">Play Music</div>
+                <div id='music' onclick="stopbgm()">Stop Music</div>
+            </div>
+
+            <div class='canvas-box'>
+                <div><canvas class='cav' id='chess' height="450px" width="450px"></canvas></div>
+            </div>
+        
+            <div class="rules-box">
+
+                <div class='rules'> Description:&nbsp; Wuziqi is the Chinese name for the board game known as Gomoku in Japanese, although the board doesn't have
+                to be 15x15 (it could be infinite).
+                </div>
+            
+                <div class='rules'>
+                Rules: &nbsp;Black Go first. Players alternate turns, players may not make more than one move in one turn, players may skip their move during
+                their turn.
+                </div >
+
+                <div class='rules'>
+                    Aim:&nbsp; to get five of one's pieces in a row
+                </div>
+
+                <div class='rules'>
+                    About:&nbsp; this is a simple javascript project made by Alvin Zhao.Thanks for using 
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class='linkto'>
+            <a href="https://github.com/AlvinZhao2020/JSGO" target="_blank"><i class="fab fa-github-square"></i> GitHub</a>
+            </div>
+            <div class='linkto'>
+            <a href="https://www.linkedin.com/in/alvin-zhao-8656b815a/" target="_blank"><i class="fab fa-linkedin"></i> Linkedin</a>
+            </div>
+            <div class='linkto'>
+            <a href="https://www.linkedin.com/in/alvin-zhao-8656b815a/" target="_blank"><i class="fab fa-facebook-square"></i>PersonalPage</a>
+            </div>
+        </div>
+    </div>
+    
+    <script type="text/javascript" src="js/script.js"></script>
 </body>
 </html>
