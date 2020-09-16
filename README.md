@@ -7,7 +7,7 @@ game. In this game there are two models a player can pick ,one is to play with A
 other is to play with another player. one player takes black and the other takes white,
 black always go first. Who gets the first 5 same-color pieces in a row will win the game.like this pic shows below
 
-<img src="images/Screen Shot 2020-09-16 at 2.31.24 PM.png" width="200" height="200" title="JS GO">
+<img src="images/Screen Shot 2020-09-16 at 2.31.24 PM.png" width="500" title="JS GO">
 
 ## Features
 
