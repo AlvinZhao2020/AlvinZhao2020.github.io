@@ -99,8 +99,8 @@ A playable AI.
 ```
 
 ## Functionality and MVP
-- [ ] Links to personal and pageFavIcon
-- [ ] Using canvas draw a board and pieces,and a eventListener to place piece
+- [ ] Links to GitHub and LindeIn. And FavIcon on pagetag
+- [ ] Using canvas draw a board and pieces,set up an eventListener to place piece
 - [ ] Players can play and pause back ground music
 - [ ] Players can play with another Player
 - [ ] When have a winner, shows the winner and player can replay a new game
