@@ -15,7 +15,7 @@ black always go first. Who gets the first 5 same-color pieces in a row will win 
 
 When one side win the game , User can click new game button to start a new game
 
-![Alt Text](https://github.com/xdeng9/sunday-market/blob/master/frontend/src/image/search.gif?raw=true)
+![Alt Text](images/newgame.gif)
 
 ### Two Player / one Player 
 
@@ -93,8 +93,8 @@ A playable AI.
 ```
 
 ## Functionality and MVP
-- [ ] Links to personal page
-- [ ] FavIcon 
+- [ ] Links to personal and pageFavIcon
+- [ ] Using canvas draw a board and pieces,and a eventListener to place piece
 - [ ] Players can play and pause back ground music
 - [ ] Players can play with another Player
 - [ ] When have a winner, shows the winner and player can replay a new game
