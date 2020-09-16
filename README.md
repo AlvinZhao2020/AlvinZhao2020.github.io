@@ -2,10 +2,12 @@
 
 
 ## Overview
-Sunday Market is a web app that allows people to buy and sell homemade food in their local communities. Users
-also have the option to list items at no cost so people can try their food for free!
+JS GO is a Javascript webpage game, its rules are as same as an tradational Chinese Go 
+game. In this game there are two models a player can pick ,one is to play with AI, the
+other is to play with another player. one player takes black and the other takes white,
+black always go first. Who gets the first 5 same-color pieces in a row will win the game.like this pic shows below
 
-<img src="https://github.com/xdeng9/sunday-market/blob/master/frontend/src/image/sunday-logo.png?raw=true" width="200" height="200" title="Sunday Market">
+<img src="images/Screen Shot 2020-09-16 at 2.31.24 PM.png" width="200" height="200" title="JS GO">
 
 ## Features
 
