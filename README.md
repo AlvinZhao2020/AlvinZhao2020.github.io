@@ -10,6 +10,12 @@ black always go first. Who gets the first 5 same-color pieces in a row will win 
 <img src="images/Screen Shot 2020-09-16 at 2.31.24 PM.png" width="800" title="JS GO">
 
 ## Features
+### Click to place a piece
+
+Each click on the borad will place a piece, and switch to the other player's turn.
+and each click will have a clicksound .
+
+![Alt Text](images/click.gif)
 
 ### New Game
 
@@ -21,7 +27,7 @@ When one side win the game , User can click new game button to start a new game
 
 User can switch betweem playing with anohter player or with AI.
 
-![Alt Text](https://github.com/xdeng9/sunday-market/blob/master/frontend/src/image/account.gif?raw=true)
+![Alt Text](images/switch.gif)
 
 ## Code Snippets
 
